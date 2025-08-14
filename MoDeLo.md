@@ -15,3 +15,7 @@ format: html
 **Nota:** Las medidas marcadas como *aprox.* fueron estimadas a partir de la imagen y pueden variar ligeramente según el diseño real.
 
 (https://www.ikea.com/fr/fr/p/stockholm-2025-table-basse-pin-naturel-50594763/)
+
+# sitios a revisar
+
+(https://www.primadera.com/proyectos)
